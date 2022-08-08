@@ -1,0 +1,93 @@
+Response: {
+    authorize: {
+        account_list: [{
+                account_type: 'trading',
+                created_at: 1481182192,
+                currency: 'USD',
+                is_disabled: 0,
+                is_virtual: 0,
+                landing_company_name: 'svg',
+                loginid: 'CR427622',
+                trading: {}
+            },
+            {
+                account_type: 'trading',
+                created_at: 1604365014,
+                currency: 'BTC',
+                is_disabled: 0,
+                is_virtual: 0,
+                landing_company_name: 'svg',
+                loginid: 'CR1884278',
+                trading: {}
+            },
+            {
+                account_type: 'trading',
+                created_at: 1609956801,
+                currency: 'ETH',
+                is_disabled: 0,
+                is_virtual: 0,
+                landing_company_name: 'svg',
+                loginid: 'CR2038485',
+                trading: {}
+            },
+            {
+                account_type: 'trading',
+                created_at: 1638730218,
+                currency: 'USDC',
+                is_disabled: 0,
+                is_virtual: 0,
+                landing_company_name: 'svg',
+                loginid: 'CR3186110',
+                trading: {}
+            },
+            {
+                account_type: 'trading',
+                created_at: 1640420373,
+                currency: 'UST',
+                is_disabled: 0,
+                is_virtual: 0,
+                landing_company_name: 'svg',
+                loginid: 'CR3260459',
+                trading: {}
+            },
+            {
+                account_type: 'trading',
+                created_at: 1643990891,
+                currency: 'LTC',
+                is_disabled: 0,
+                is_virtual: 0,
+                landing_company_name: 'svg',
+                loginid: 'CR3434363',
+                trading: {}
+            },
+            {
+                account_type: 'trading',
+                created_at: 1481181665,
+                currency: 'USD',
+                is_disabled: 0,
+                is_virtual: 1,
+                landing_company_name: 'virtual',
+                loginid: 'VRTC1408087',
+                trading: {}
+            },
+            [length]: 7
+        ],
+        balance: 30805.97,
+        country: 'za',
+        currency: 'USD',
+        email: 'leereal08@ymail.com',
+        fullname: '  ',
+        is_virtual: 1,
+        landing_company_fullname: 'Deriv Limited',
+        landing_company_name: 'virtual',
+        local_currencies: { ZAR: { fractional_digits: 2 } },
+        loginid: 'VRTC1408087',
+        preferred_language: 'EN',
+        scopes: ['read', 'trade', 'trading_information', [length]: 3],
+        trading: {},
+        upgradeable_landing_companies: ['svg', [length]: 1],
+        user_id: 5518509
+    },
+    echo_req: { authorize: '<not shown>' },
+    msg_type: 'authorize'
+}
